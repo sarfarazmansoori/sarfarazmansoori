@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I’m an AWS Certified AI Practitioner and a National Finalist in the AI for Bharat Hackathon. I’m currently striving to build strong expertise in cloud infrastructure and AI-driven solutions through continuous learning and hands-on work.
+I’m an AWS Certified AI Practitioner and a National Semi-Finalist in the AI for Bharat Hackathon. I’m currently striving to build strong expertise in cloud infrastructure and AI-driven solutions through continuous learning and hands-on work.
 
 🔭 &nbsp;I'm currently working on **Building AI Agents for Cloud**  
 🌱 &nbsp;I'm currently learning **Integration of AI and Ml with Cloud**  
